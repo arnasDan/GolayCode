@@ -1,0 +1,13 @@
+C:\WORK\GolayCode\GolayCode\bin\Debug\netcoreapp3.1\GolayCode.exe
+C:\WORK\GolayCode\GolayCode\bin\Debug\netcoreapp3.1\GolayCode.deps.json
+C:\WORK\GolayCode\GolayCode\bin\Debug\netcoreapp3.1\GolayCode.runtimeconfig.json
+C:\WORK\GolayCode\GolayCode\bin\Debug\netcoreapp3.1\GolayCode.runtimeconfig.dev.json
+C:\WORK\GolayCode\GolayCode\bin\Debug\netcoreapp3.1\GolayCode.dll
+C:\WORK\GolayCode\GolayCode\bin\Debug\netcoreapp3.1\GolayCode.pdb
+C:\WORK\GolayCode\GolayCode\obj\Debug\netcoreapp3.1\GolayCode.csprojAssemblyReference.cache
+C:\WORK\GolayCode\GolayCode\obj\Debug\netcoreapp3.1\GolayCode.AssemblyInfoInputs.cache
+C:\WORK\GolayCode\GolayCode\obj\Debug\netcoreapp3.1\GolayCode.AssemblyInfo.cs
+C:\WORK\GolayCode\GolayCode\obj\Debug\netcoreapp3.1\GolayCode.csproj.CoreCompileInputs.cache
+C:\WORK\GolayCode\GolayCode\obj\Debug\netcoreapp3.1\GolayCode.dll
+C:\WORK\GolayCode\GolayCode\obj\Debug\netcoreapp3.1\GolayCode.pdb
+C:\WORK\GolayCode\GolayCode\obj\Debug\netcoreapp3.1\GolayCode.genruntimeconfig.cache
